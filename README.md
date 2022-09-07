@@ -1,6 +1,4 @@
-# 300-Companies-List-India
-
-## 300+ Companies/Startups in india which pays 12+ base for SDE-1(0-2yrs exp) in india
+# 300+ Companies/Startups in india which pays 12+ base for SDE-1(0-2yrs exp) in india
 
 Credit : Leetcode discuss post -> https://leetcode.com/discuss/career/2493619/Top-Companies-to-Apply-or-India-or-2022/
 

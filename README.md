@@ -1,330 +1,387 @@
-# 300+ Companies/Startups in india which pays 12+ base for SDE-1(0-2yrs exp) in india
+## 300+ Companies/Startups in india which pays 12+ base for SDE-1(0-2yrs exp) in india
 
 Credit : Leetcode discuss post -> https://leetcode.com/discuss/career/2493619/Top-Companies-to-Apply-or-India-or-2022/
 
 
-
-
-1. Acko
-2. Adobe
-3. Airbase
-4. Airbnb
-5. Airbus
-6. Airtel X Labs
-7. Ajio
-8. Akamai
-9. AlphaGrep
-10. Alphonso
-11. Amagi
-12. Amazon
-13. American Express
-14. Angel One
-15. Ansys
-16. Anthem
-17. Apna
-18. AppDynamics
-19. Arcesium
-20. Arista
-21. Atlassian
-22. AutoDesk
-23. Auzmor
-24. Avail Finance
-25. Avalara
-26. BCG
-27. BNY Mellon
-28. Bain & Company
-29. Bankbazaar
-30. Belzabar
-31. Bharatpe
-32. Bigbasket
-33. Biofourmis
-34. Bizongo
-35. Blackbuck
-36. Blinkit
-37. BloomReach
-38. Booking
-39. Bright Money
-40. Broadcom
-41. Browserstack
-42. Bukuwarung
-43. Buyhatke
-44. Byjus
-45. C2FO
-46. C2fo
-47. Cadence
-48. CashFree
-49. Chargebee
-50. Chegg
-51. Chronus Software
-52. Cisco
-53. Citi Bank
-54. Citrix
-55. Citymall
-56. Clarisights
-57. ClearQuote
-58. ClearTax
-59. ClearTrip
-60. Cloootrack
-61. Cloud Lending
-62. Clumio
-63. Credgenics
-64. Codenation
-65. Cogoport
-66. Cohesity
-67. Coinbase
-68. Coinswitch
-69. CommerceIQ
-70. Commvault
-71. Confluent
-72. CouchBase
-73. Cred
-74. Credit Suisse
-75. Crowdfire
-76. Cure Fit
-77. D E Shaw
-78. Daily Rounds
-79. Datadog
-80. Dealshare
-81. Delhivery
-82. Dialpad
-83. Directi
-84. Dp world
-85. Dream 11
-86. Dremio
-87. Druva
-88. Duetshe bank
-89. Dunzo
-90. Eightfold ai
-91. Electronics Arts
-92. Eltropy
-93. Endurance
-94. Enfusion
-95. Epifi
-96. Expedia
-97. Falabella
-98. Fanclash
-99. FarEye
-100. Fedility Investments
-101. Fleetx
-102. Flipkart
-103. Flock
-104. Fraazo
-105. FreeCharge
-106. FreshMenu
-107. FreshWorks
-108. FrontRow
-109. FunPlus
-110. G E Health Care
-111. Games 24x7
-112. GamesKraft
-113. Gartner
-114. Glance
-115. Gojek
-116. Goldmansachs
-117. GoodWorker
-118. Google
-119. Grab
-120. Graviton
-121. Groupon
-122. Groww
-123. Gupshup
-124. Harness
-125. Headout
-126. Hedge Fund
-127. Hotstar
-128. Idrive
-129. Indeed
-130. IndiaMart
-131. Indiagold
-132. Indmoney
-133. InfoEdge
-134. Informatica
-135. Infoworks
-136. Inmobi
-137. Innovacer
-138. InsideView
-139. Instabase
-140. Intel
-141. Intuit
-142. Ion Trading
-143. Itilite
-144. Ixigo
-145. Jio
-146. JPMC
-147. Jumio
-148. Jungle Games
-149. Juniper Networks
-150. Jupiter Money
-151. Juspay
-152. KLA
-153. Khatabook
-154. Komprise
-155. Kuvera
-156. LambdaTest
-157. Leap Finance
-158. Leena ai
-159. Lenskart
-160. Licious
-161. Limeroad
-162. Linkedin
-163. Linq
-164. Livspace
-165. Loco
-166. MPL
-167. Magnitude
-168. MakeMyTrip
-169. Mastercard
-170. MathWorks
-171. McKinsey
-172. Medianet
-173. Meesho
-174. Meidatek
-175. Mentor Graphics
-176. Mfine
-177. Microsoft
-178. MindTickle
-179. MoenGage
-180. Money Control
-181. Moneyview
-182. MoonFrog
-183. Morgan Stanley
-184. MotorQ
-185. MSC
-186. MyKaarma
-187. Myntra
-188. NK Securities
-189. Nagarro
-190. Nas Academy
-191. National Instruments
-192. Navi
-193. Nektar ai
-194. NetApp
-195. Netomi
-196. NewFold Digital
-197. Nference
-198. Nike
-199. Ninjacart 
-200. NoBroker
-201. Noccarc 
-202. Nurture Farm 
-203. Nutanix 
-204. Nvidia 
-205. OCI 
-206. OLX Group 
-207. OkCredit 
-208. Ola 
-209. Oppo
-210. Oracle 
-211. Oyo 
-212. Palo Alto 
-213. PayU 
-214. Paypal 
-215. Paytm 
-216. Peak Ai 
-217. PharmEasy 
-218. Philips 
-219. Phonepe 
-220. Pickrr 
-221. Plivo 
-222. PlumHQ 
-223. Porter  
-224. Postman  
-225. Practo  
-226. Progress  
-227. PropertyGuru  
-228. Prophecy io  
-229. Public Sapient  
-230. Quad Eye  
-231. Qualcomm  
-232. Quizizz  
-233. Rain Instant Pay  
-234. Razorpay  
-235. Rebel Foods  
-236. Reliance Retail  
-237. Revolut  
-238. Rippling  
-239. Rivigo  
-240. Rubrik  
-241. Rupeek  
-242. SABRE  
-243. SAP Labs  
-244. Salesforce  
-245. Salesken  
-246. Samsung  
-247. Sapient  
-248. Schlumberger  
-249. SenseHq  
-250. Servicenow  
-251. ShareChat  
-252. Shiprocket  
-253. Sigmoid
-254. Sigtuple  
-255. Simpl  
-256. Sixt  
-257. Slack  
-258. Smart Coin Financials  
-259. Snowflake  
-260. SocGen  
-261. Sostronk  
-262. Spinny  
-263. SplashLearn  
-264. Sprinklr  
-265. Stashfin  
-266. Stripe  
-267. Sumo Logic  
-268. Swiggy  
-269. Synopsys  
-270. Target
-271. Tata 1mg
-272. Telstra
-273. Tesco
-274. Tesla
-275. Texas Instruments
-276. Times Internet
-277. Tokopedia
-278. TomTom
-279. Toppr
-280. Tower Research Capital
-281. Traveloka
-282. Trifacta
-283. Trilogy
-284. Trinkerr
-285. TruEra
-286. Turvo
-287. Twillio
-288. Twitter
-289. UOLO
-290. Uber
-291. Udaan
-292. UiPath
-293. Unacademy
-294. Upstox
-295. Urban Company
-296. Urban Ladder
-297. Visa
-298. Vmware
-299. Vogo
-300. Vymo
-301. Walmart
-302. Wells Fargo
-303. Western Digital
-304. Whatfix
-305. Wingify
-306. Winzo
-307. Wooqer
-308. World Quant
-309. Xerox Research
-310. Xilinx
-311. Yellow AI
-312. Yubi
-313. Yugabyte
-314. Zebpay
-315. Zendrive
-316. Zenefits
-317. Zeotap
-318. Zepto
-319. Zerodha
-320. Zomato
-321. Zoomcar
-322. Zupee
-323. Zynga
+<ol>
+  <li>Ab Inbev</li>
+  <li>Acko</li>
+  <li>Adobe</li>
+  <li>Air Asia Technology Centre</li>
+  <li>Airbase</li>
+  <li>Airbnb</li>
+  <li>Airbus</li>
+  <li>Airtel X Labs</li>
+  <li>Affinidi</li>
+  <li>Ajio</li>
+  <li>Akamai</li>
+  <li>AlphaGrep</li>
+  <li>Alphonso</li>
+  <li>Amagi</li>
+  <li>Amazon</li>
+  <li>American Express</li>
+  <li>Angel One</li>
+  <li>Ansys</li>
+  <li>Anthem</li>
+  <li>Apna</li>
+  <li>AppDynamics</li>
+  <li>AQR Capital</li>
+  <li>Arcesium</li>
+  <li>Arista</li>
+  <li>Attentive OS</li>
+  <li>Atlassian</li>
+  <li>AutoDesk</li>
+  <li>Auzmor</li>
+  <li>Avail Finance</li>
+  <li>Avalara</li>
+  <li>BCG</li>
+  <li>Bhanzu</li>
+  <li>BNY Mellon</li>
+  <li>Bain & Company</li>
+  <li>Bankbazaar</li>
+  <li>Belzabar</li>
+  <li>Bidgely</li>
+  <li>Binance</li>
+  <li>Bharatpe</li>
+  <li>Bigbasket</li>
+  <li>Biofourmis</li>
+  <li>Bizongo</li>
+  <li>Blackbuck</li>
+  <li>Blinkit</li>
+  <li>BloomReach</li>
+  <li>Booking</li>
+  <li>Bright Money</li>
+  <li>Broadcom</li>
+  <li>Browserstack</li>
+  <li>Bukuwarung</li>
+  <li>Buyhatke</li>
+  <li>Byjus</li>
+  <li>C2FO</li>
+  <li>C2fo</li>
+  <li>Cadence</li>
+  <li>CashFree</li>
+  <li>Celigo</li>
+  <li>Chalo</li>
+  <li>Chargebee</li>
+  <li>Chegg</li>
+  <li>Chqbook</li>
+  <li>Chronus Software</li>
+  <li>Cisco</li>
+  <li>Citi Bank</li>
+  <li>Citrix</li>
+  <li>Citymall</li>
+  <li>Clarisights</li>
+  <li>ClearQuote</li>
+  <li>ClearTax</li>
+  <li>ClearTrip</li>
+  <li>Cloootrack</li>
+  <li>Cloud Lending</li>
+  <li>Clumio</li>
+  <li>Credgenics</li>
+  <li>Codenation</li>
+  <li>Cogoport</li>
+  <li>Cohesity</li>
+  <li>Coinbase</li>
+  <li>Coinswitch</li>
+  <li>CommerceIQ</li>
+  <li>Commvault</li>
+  <li>Confluent</li>
+  <li>CouchBase</li>
+  <li>Cred</li>
+  <li>Credit Suisse</li>
+  <li>Crowdfire</li>
+  <li>Cure Fit</li>
+  <li>Daily Rounds</li>
+  <li>Datadog</li>
+  <li>Decimal Point Analytics</li>
+  <li>Dealshare</li>
+  <li>Delhivery</li>
+  <li>Dehaat</li>
+  <li>D E Shaw</li>
+  <li>Deutsche Bank</li>
+  <li>Dialpad</li>
+  <li>Directi</li>
+  <li>Dish Networks</li>
+  <li>Dkraft</li>
+  <li>Dp world</li>
+  <li>Dream 11</li>
+  <li>Dremio</li>
+  <li>Druva</li>
+  <li>Duetshe bank</li>
+  <li>Dunzo</li>
+  <li>Edfora Infotech</li>
+  <li>EDGEVERVE</li>
+  <li>Editorialist YX</li>
+  <li>Eightfold ai</li>
+  <li>Electronics Arts</li>
+  <li>Eltropy</li>
+  <li>Endurance</li>
+  <li>Enfusion</li>
+  <li>Epifi</li>
+  <li>Esentire</li>
+  <li>Expedia</li>
+  <li>Falabella</li>
+  <li>Fanclash</li>
+  <li>FarePortal</li>
+  <li>FarEye</li>
+  <li>Fastenal</li>
+  <li>Fedility Investments</li>
+  <li>Finflux</li>
+  <li>Fleetx</li>
+  <li>Flipkart</li>
+  <li>Flock</li>
+  <li>Flyfin</li>
+  <li>Fraazo</li>
+  <li>Freescale</li>
+  <li>Fractal</li>
+  <li>FreeCharge</li>
+  <li>FreshMenu</li>
+  <li>FreshWorks</li>
+  <li>FrontRow</li>
+  <li>FunPlus</li>
+  <li>G E Health Care</li>
+  <li>Games 24x7</li>
+  <li>GamesKraft</li>
+  <li>Gartner</li>
+  <li>Glance</li>
+  <li>Gojek</li>
+  <li>GoKwik</li>
+  <li>Goldmansachs</li>
+  <li>GoodWorker</li>
+  <li>Google</li>
+  <li>Grab</li>
+  <li>Graviton</li>
+  <li>Groupon</li>
+  <li>Groww</li>
+  <li>Gupshup</li>
+  <li>Harness</li>
+  <li>Headout</li>
+  <li>Hedge Fund</li>
+  <li>Heyday</li>
+  <li>Hotstar</li>
+  <li>IDFC First Bank</li>
+  <li>Idrive</li>
+  <li>Increff</li>
+  <li>Indeed</li>
+  <li>IndiaMart</li>
+  <li>Indiagold</li>
+  <li>Indmoney</li>
+  <li>Infinx</li>
+  <li>InfoEdge</li>
+  <li>Informatica</li>
+  <li>Infoworks</li>
+  <li>Infra market</li>
+  <li>Inmobi</li>
+  <li>Innovacer</li>
+  <li>InsideView</li>
+  <li>Instabase</li>
+  <li>Intel</li>
+  <li>Intuit</li>
+  <li>Ion Trading</li>
+  <li>Itilite</li>
+  <li>Ixigo</li>
+  <li>Jio</li>
+  <li>JPMC</li>
+  <li>JTG</li>
+  <li>Jumio</li>
+  <li>Jungle Games</li>
+  <li>Juniper Networks</li>
+  <li>Jupiter Money</li>
+  <li>Juspay</li>
+  <li>KLA</li>
+  <li>Khatabook</li>
+  <li>Komprise</li>
+  <li>Kuvera</li>
+  <li>LambdaTest</li>
+  <li>Leap Finance</li>
+  <li>Leena ai</li>
+  <li>Lenskart</li>
+  <li>Licious</li>
+  <li>Limeroad</li>
+  <li>Linkedin</li>
+  <li>Linq</li>
+  <li>Livspace</li>
+  <li>Loco</li>
+  <li>MPL</li>
+  <li>Magnitude</li>
+  <li>MakeMyTrip</li>
+  <li>Mastercard</li>
+  <li>MathWorks</li>
+  <li>McKinsey</li>
+  <li>Medianet</li>
+  <li>Meesho</li>
+  <li>Meme chat</li>
+  <li>Meidatek</li>
+  <li>Mentor Graphics</li>
+  <li>Millennium Management</li>
+  <li>Mfine</li>
+  <li>Microsoft</li>
+  <li>MindTickle</li>
+  <li>MoenGage</li>
+  <li>Money Control</li>
+  <li>Moneyview</li>
+  <li>MoonFrog</li>
+  <li>Morgan Stanley</li>
+  <li>MotorQ</li>
+  <li>MSC</li>
+  <li>MyKaarma</li>
+  <li>Myntra</li>
+  <li>NK Securities</li>
+  <li>Nagarro</li>
+  <li>Nas Academy</li>
+  <li>National Instruments</li>
+  <li>Navi</li>
+  <li>Navis</li>
+  <li>Nektar ai</li>
+  <li>NetApp</li>
+  <li>Netomi</li>
+  <li>NewFold Digital</li>
+  <li>Nference</li>
+  <li>Nike</li>
+  <li>Ninjacart</li>
+  <li>NoBroker</li>
+  <li>Noccarc</li>
+  <li>Nurture Farm</li>
+  <li>Nutanix</li>
+  <li>Nvidia</li>
+  <li>NXP</li>
+  <li>Nykaa</li>
+  <li>O4S</li>
+  <li>OCI</li>
+  <li>OLX Group</li>
+  <li>OkCredit</li>
+  <li>Ola</li>
+  <li>Oppo</li>
+  <li>Oracle</li>
+  <li>Oyo</li>
+  <li>Palo Alto</li>
+  <li>Parth</li>
+  <li>PayU</li>
+  <li>Paypal</li>
+  <li>Paytm</li>
+  <li>Peak Ai</li>
+  <li>PharmEasy</li>
+  <li>Philips</li>
+  <li>Phonepe</li>
+  <li>Pickrr</li>
+  <li>Piramal Finance</li>
+  <li>Plivo</li>
+  <li>PlumHQ</li>
+  <li>PocketPills</li>
+  <li>Porter</li>
+  <li>Postman</li>
+  <li>Practo</li>
+  <li>Progress</li>
+  <li>PropertyGuru</li>
+  <li>Prophecy io</li>
+  <li>Public Sapient</li>
+  <li>Qoala</li>
+  <li>Quad Eye</li>
+  <li>Qualcomm</li>
+  <li>Quizizz</li>
+  <li>Rain Instant Pay</li>
+  <li>Rakuten Symphony</li>
+  <li>RateGain</li>
+  <li>Razorpay</li>
+  <li>Rebel Foods</li>
+  <li>Reliance Retail</li>
+  <li>Revolut</li>
+  <li>Rippling</li>
+  <li>Rivigo</li>
+  <li>Rubrik</li>
+  <li>Rupeek</li>
+  <li>SABRE</li>
+  <li>Safe Security</li>
+  <li>SAP Labs</li>
+  <li>Salesforce</li>
+  <li>Salesken</li>
+  <li>Samsung</li>
+  <li>Sapient</li>
+  <li>Schlumberger</li>
+  <li>SenseHq</li>
+  <li>Servicenow</li>
+  <li>ShareChat</li>
+  <li>Shiprocket</li>
+  <li>SHL</li>
+  <li>Sigmoid</li>
+  <li>Sigtuple</li>
+  <li>Simpl</li>
+  <li>Sixt</li>
+  <li>Slack</li>
+  <li>Smart Coin Financials</li>
+  <li>Snowflake</li>
+  <li>SocGen</li>
+  <li>Sostronk</li>
+  <li>Spinny</li>
+  <li>SplashLearn</li>
+  <li>Sprinklr</li>
+  <li>Squadstack</li>
+  <li>Stashfin</li>
+  <li>Stimuler</li>
+  <li>Stripe</li>
+  <li>Sumo Logic</li>
+  <li>Sumologic</li>
+  <li>Swiggy</li>
+  <li>Synopsys</li>
+  <li>Tala</li>
+  <li>Target</li>
+  <li>Tata 1mg</li>
+  <li>Telekom</li>
+  <li>Telstra</li>
+  <li>Tesco</li>
+  <li>Tesla</li>
+  <li>Texas Instruments</li>
+  <li>Thales India</li>
+  <li>Times Internet</li>
+  <li>Toast Inc</li>
+  <li>Tokopedia</li>
+  <li>TomTom</li>
+  <li>Toppr</li>
+  <li>Tower Research Capital</li>
+  <li>Turtlemint</li>
+  <li>Traveloka</li>
+  <li>Truminds</li>
+  <li>Trifacta</li>
+  <li>Trinkerr</li>
+  <li>TruEra</li>
+  <li>Turvo</li>
+  <li>Twillio</li>
+  <li>Twitter</li>
+  <li>UOLO</li>
+  <li>Uber</li>
+  <li>Udaan</li>
+  <li>UiPath</li>
+  <li>Unacademy</li>
+  <li>Unthinkable solutions</li>
+  <li>Upstox</li>
+  <li>Urban Company</li>
+  <li>Urban Ladder</li>
+  <li>Virohan</li>
+  <li>Visa</li>
+  <li>Vmware</li>
+  <li>Vogo</li>
+  <li>Vymo</li>
+  <li>Walmart</li>
+  <li>Wells Fargo</li>
+  <li>Western Digital</li>
+  <li>Whatfix</li>
+  <li>Wingify</li>
+  <li>Winzo</li>
+  <li>Wooqer</li>
+  <li>World Quant</li>
+  <li>Xerox Research</li>
+  <li>Xilinx</li>
+  <li>Yellow AI</li>
+  <li>Yubi</li>
+  <li>Yugabyte</li>
+  <li>Zebpay</li>
+  <li>Zendrive</li>
+  <li>Zenefits</li>
+  <li>Zeotap</li>
+  <li>Zepto</li>
+  <li>Zerodha</li>
+  <li>Zomato</li>
+  <li>Zoomcar</li>
+  <li>Zupee</li>
+  <li>Zynga</li>
+</ol>

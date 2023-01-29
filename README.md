@@ -19,12 +19,14 @@ Credit : Leetcode discuss post -> https://leetcode.com/discuss/career/2493619/To
   <li>Alphonso</li>
   <li>Amagi</li>
   <li>Amazon</li>
+  <li>AMD</li>
   <li>American Express</li>
   <li>Angel One</li>
   <li>Ansys</li>
   <li>Anthem</li>
   <li>Apna</li>
   <li>AppDynamics</li>
+  <li>Apple</li>
   <li>AQR Capital</li>
   <li>Arcesium</li>
   <li>Arista</li>
@@ -39,6 +41,7 @@ Credit : Leetcode discuss post -> https://leetcode.com/discuss/career/2493619/To
   <li>BNY Mellon</li>
   <li>Bain & Company</li>
   <li>Bankbazaar</li>
+  <li>Barclays</li>
   <li>Belzabar</li>
   <li>Bidgely</li>
   <li>Binance</li>
@@ -119,6 +122,7 @@ Credit : Leetcode discuss post -> https://leetcode.com/discuss/career/2493619/To
   <li>Enfusion</li>
   <li>Epifi</li>
   <li>Esentire</li>
+  <li>Exotel</li>
   <li>Expedia</li>
   <li>Falabella</li>
   <li>Fanclash</li>
@@ -180,6 +184,7 @@ Credit : Leetcode discuss post -> https://leetcode.com/discuss/career/2493619/To
   <li>Ion Trading</li>
   <li>Itilite</li>
   <li>Ixigo</li>
+  <li>Jaguar Land Rover</li>
   <li>Jio</li>
   <li>JPMC</li>
   <li>JTG</li>
@@ -316,6 +321,7 @@ Credit : Leetcode discuss post -> https://leetcode.com/discuss/career/2493619/To
   <li>SplashLearn</li>
   <li>Sprinklr</li>
   <li>Squadstack</li>
+  <li>Standard Chartered</li>
   <li>Stashfin</li>
   <li>Stimuler</li>
   <li>Stripe</li>
